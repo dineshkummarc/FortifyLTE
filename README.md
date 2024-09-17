@@ -1,4 +1,5 @@
 # Laravel + Fortify + AdminLTE 3
+--------------------------------
 
 Repository ini merupakan sebuah repository sederhana dari Framework Laravel 8 yang bagian autentikasinya sedikit di kustomasi menggunakan Laravel Fortify, sehingga bisa di integrasikan tampilannya menggunakan AdminLTE 3. Didalam repository ini sudah tersedia contoh CRUD sederhana menggunakan Livewire yang bisa kamu kembangkan sendiri sesuai dengan kebutuhan yang kamu miliki. Selain itu, repository ini juga menggunakan Turbolink pada bagian panel-nya, sehingga bisa sedikit 'terasa' seperti aplikasi SPA.
 
